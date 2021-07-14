@@ -1,5 +1,3 @@
-import { Utils } from "../shared/Utils";
+import { Utils } from '../shared/Utils';
 
-export class ClientUtils extends Utils {
-
-}
+export class ClientUtils extends Utils {}

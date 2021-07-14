@@ -1,6 +1,3 @@
-import { ServerUtils } from './ServerUtils'
-
-export * from './ServerUtils'
-const utils = new ServerUtils();
-
-export const Utils = utils
+import { ServerUtils } from './ServerUtils';
+export * from './ServerUtils';
+export const utils = new ServerUtils();

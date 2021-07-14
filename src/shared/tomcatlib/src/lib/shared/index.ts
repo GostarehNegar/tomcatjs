@@ -1,2 +1,2 @@
-export * from './Utils'
-export * as models from './models'
+export * from './Utils';
+export * as models from './models';

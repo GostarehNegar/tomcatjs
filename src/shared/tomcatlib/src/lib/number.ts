@@ -51,8 +51,7 @@ export const power = (base: number, exponent: number) => {
 };
 
 export class TTT {
-
   public static t() {
-    return "ll";
+    return 'll';
   }
 }
